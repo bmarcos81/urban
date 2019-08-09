@@ -2,9 +2,9 @@
 layout: post
 title:  "Post Ejemplo"
 date:   2015-10-09 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: https://lorempixel.com/300/300
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+![Picture 1](https://lorempixel.com/300/300)
 
 Esto es el contenido del post
